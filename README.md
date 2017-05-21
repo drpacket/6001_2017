@@ -1,5 +1,4 @@
 # 6.00.1x - Introduction to Computer Science using Python
----
 ## Work Repository
 
 > => *Note: 2017 Version of MITx course using Python 3*
