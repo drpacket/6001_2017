@@ -1,4 +1,4 @@
-# MITx 600.1x Introduction to CS and Programming using Python
+# MITx 600.1x - Introduction to Computer Science 
 ## Work Repository
 ---
 > => *Note: 2017 Version of MITx course using Python 3*
