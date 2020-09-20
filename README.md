@@ -10,10 +10,10 @@ Repository Contents:
 * coding parts of Midterm + Final Exams
 ```
 ---
-![Image](https://mitpress.mit.edu/sites/default/files/imagecache/book_slideshow_lg/9780262529624_0.jpg)
-> [Offical Textbook, MIT Press](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0262529629&pd_rd_r=M297ZJC9BBW59R6EGKN7&pd_rd_w=4CRv4&pd_rd_wg=DzfPx&psc=1&refRID=M297ZJC9BBW59R6EGKN7)
+![Image](https://images-na.ssl-images-amazon.com/images/I/51bDU8MTIoL._SX391_BO1,204,203,200_.jpg)
 
-> [Course Homepage, edx.org](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+>[Offical Textbook, MIT Press](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629/ref=sr_1_1?dchild=1&keywords=MIT+Press+Guttag+Introduction+to+Computation&qid=1600643800&sr=8-1)
 
+>[Course Homepage, edx.org](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
 ---
